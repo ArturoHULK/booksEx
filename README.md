@@ -1,2 +1,2 @@
 # booksEx
-Simple REST spring boot project fro books
+Simple REST spring boot project for books
